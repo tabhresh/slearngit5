@@ -1,0 +1,1 @@
+New File added from GitHub to demonstrate checkout command usage.
